@@ -1,4 +1,5 @@
 # ✨Read me✨
+*Compte créé par @cake-and-despair pour le cours SCI6201 de l'EBSI*
 
 - 🔭 __I’m currently working on__ completing my master's degree in information science and library services. My thesis will discuss LGBTQIA2S+ representation in public library collections. 
 - 🌱 __I’m currently learning__ ruby and I'm not great at it, but I'm worse at python so there's that. 
